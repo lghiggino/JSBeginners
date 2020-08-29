@@ -1,0 +1,40 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main{
+    background-color: rgb(187, 35, 35);
+    width: 400px;
+	height: 400px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+#control{
+	background-color: rgba(255,255,255,0.3);
+    border: 1px solid gray;
+    color: white;
+    position: absolute;
+	top:10%;
+	left: 0;
+	right: 0;
+    margin: auto; 
+    width: 20%;
+	height: 10%;
+}
+
+#theQuote{
+	color:white;
+	margin: 6em 2em 2em 2em;
+	background-color:rgba(255,255,255,0.1)
+}
+
+#author{
+    color:gray;
+    float:right;
+    margin-right: 2em;
+}
